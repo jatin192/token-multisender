@@ -33,7 +33,7 @@ Built with React.js and styled with Tailwind CSS, this applicationn allow user t
 ## Installation Steps
 1. Clone the repository:
     ```bash
-    git clone https://github.com/0xmetaschool/token-multisender.git
+    git clone https://github.com/jatin192/token-multisender.git
     ```
 2. Install Dependencies: Navigate to the project directory and install the necessary dependencies:
     ```bash
