@@ -4,6 +4,21 @@ Token MultiSender is a decentralized application that allows users to send token
 
 Built with React.js and styled with Tailwind CSS, this applicationn allow user to send tokens to multiple addresses in a single transaction, saving time and reducing gas fees.
 
+## Screenshots
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/1452732c-7575-4b85-9aaa-78d82f40f4dc" alt="Screenshot 1" width="500"></td>
+    <td><img src="https://github.com/user-attachments/assets/6f5280ed-d220-41c9-a748-d129bd288ebd6" alt="Screenshot 2" width="500"></td>
+    <td><img src="https://github.com/user-attachments/assets/4166d644-1ee2-4963-be0c-faf7646da38a" alt="Screenshot 3" width="500"></td>
+  </tr>
+  <tr>
+          <td><img src="https://github.com/user-attachments/assets/caf8b05e-539f-459e-a430-18259cd6c4ae" alt="Screenshot 4" width="500"></td>
+    <td><img src="https://github.com/user-attachments/assets/629d9422-4835-4ab3-83ae-1be8f50acbb2" alt="Screenshot 1" width="500"></td>
+    <td><img src="https://github.com/user-attachments/assets/5e6ce367-b346-47a0-b940-627059d7503f" alt="Screenshot 2" width="500"></td>
+  </tr>
+</table>
+
 ## Live Demo
 [https://token-multisender-metaschool.vercel.app/](https://token-multisender-metaschool.vercel.app/)
 
@@ -47,20 +62,7 @@ Built with React.js and styled with Tailwind CSS, this applicationn allow user t
     ```
 Open your browser and navigate to http://localhost:5173
 
-## Screenshots
 
-<table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/1452732c-7575-4b85-9aaa-78d82f40f4dc" alt="Screenshot 1" width="350"></td>
-    <td><img src="https://github.com/user-attachments/assets/6f5280ed-d220-41c9-a748-d129bd288ebd6" alt="Screenshot 2" width="350"></td>
-    <td><img src="https://github.com/user-attachments/assets/4166d644-1ee2-4963-be0c-faf7646da38a" alt="Screenshot 3" width="350"></td>
-    <td><img src="https://github.com/user-attachments/assets/caf8b05e-539f-459e-a430-18259cd6c4ae" alt="Screenshot 4" width="350"></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/629d9422-4835-4ab3-83ae-1be8f50acbb2" alt="Screenshot 1" width="350"></td>
-    <td><img src="https://github.com/user-attachments/assets/5e6ce367-b346-47a0-b940-627059d7503f" alt="Screenshot 2" width="350"></td>
-  </tr>
-</table>
 
 ## How to use Mulisender
 
